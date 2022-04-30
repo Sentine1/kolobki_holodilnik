@@ -54,6 +54,12 @@ namespace kolobki_holodilnik
                 button44.Text == keyOpen)
                 progressBar4.Value = 100;
             else progressBar4.Value = 0;
+
+            if (progressBar1.Value == 100 &&
+                progressBar2.Value == 100 &&
+                progressBar3.Value == 100 &&
+                progressBar4.Value == 100)
+                MessageBox.Show("You Win Gratz!!");
         }
 
         private void Change_Progress_Line1()
