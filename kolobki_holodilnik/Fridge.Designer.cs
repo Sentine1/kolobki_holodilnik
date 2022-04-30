@@ -58,39 +58,50 @@ namespace kolobki_holodilnik
             // 
             // progressBar1
             // 
-            this.progressBar1.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.progressBar1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.progressBar1.Location = new System.Drawing.Point(40, 20);
             this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(60, 30);
+            this.progressBar1.Size = new System.Drawing.Size(55, 18);
             this.progressBar1.TabIndex = 0;
             // 
             // progressBar2
             // 
-            this.progressBar2.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.progressBar2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.progressBar2.Location = new System.Drawing.Point(140, 20);
             this.progressBar2.Name = "progressBar2";
-            this.progressBar2.Size = new System.Drawing.Size(60, 30);
+            this.progressBar2.Size = new System.Drawing.Size(55, 18);
             this.progressBar2.TabIndex = 1;
             // 
             // progressBar3
             // 
-            this.progressBar3.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.progressBar3.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.progressBar3.Location = new System.Drawing.Point(240, 20);
             this.progressBar3.Name = "progressBar3";
-            this.progressBar3.Size = new System.Drawing.Size(60, 30);
+            this.progressBar3.Size = new System.Drawing.Size(55, 18);
             this.progressBar3.TabIndex = 2;
             // 
             // progressBar4
             // 
-            this.progressBar4.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.progressBar4.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.progressBar4.Location = new System.Drawing.Point(340, 20);
             this.progressBar4.Name = "progressBar4";
-            this.progressBar4.Size = new System.Drawing.Size(60, 30);
+            this.progressBar4.Size = new System.Drawing.Size(55, 18);
             this.progressBar4.TabIndex = 3;
             // 
             // button11
             // 
-            this.button11.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.button11.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.button11.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.button11.Font = new System.Drawing.Font("Arial Rounded MT Bold", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button11.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.button11.Location = new System.Drawing.Point(40, 79);
@@ -104,7 +115,10 @@ namespace kolobki_holodilnik
             // 
             // button12
             // 
-            this.button12.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.button12.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.button12.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.button12.Font = new System.Drawing.Font("Arial Rounded MT Bold", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button12.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.button12.Location = new System.Drawing.Point(140, 79);
@@ -118,7 +132,10 @@ namespace kolobki_holodilnik
             // 
             // button13
             // 
-            this.button13.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.button13.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.button13.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.button13.Font = new System.Drawing.Font("Arial Rounded MT Bold", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button13.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.button13.Location = new System.Drawing.Point(240, 79);
@@ -132,7 +149,10 @@ namespace kolobki_holodilnik
             // 
             // button14
             // 
-            this.button14.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.button14.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.button14.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.button14.Font = new System.Drawing.Font("Arial Rounded MT Bold", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button14.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.button14.Location = new System.Drawing.Point(340, 79);
@@ -146,7 +166,10 @@ namespace kolobki_holodilnik
             // 
             // button21
             // 
-            this.button21.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.button21.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.button21.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.button21.Font = new System.Drawing.Font("Arial Rounded MT Bold", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button21.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.button21.Location = new System.Drawing.Point(40, 155);
@@ -160,7 +183,10 @@ namespace kolobki_holodilnik
             // 
             // button22
             // 
-            this.button22.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.button22.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.button22.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.button22.Font = new System.Drawing.Font("Arial Rounded MT Bold", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button22.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.button22.Location = new System.Drawing.Point(140, 155);
@@ -174,7 +200,10 @@ namespace kolobki_holodilnik
             // 
             // button23
             // 
-            this.button23.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.button23.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.button23.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.button23.Font = new System.Drawing.Font("Arial Rounded MT Bold", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button23.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.button23.Location = new System.Drawing.Point(240, 155);
@@ -188,7 +217,10 @@ namespace kolobki_holodilnik
             // 
             // button24
             // 
-            this.button24.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.button24.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.button24.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.button24.Font = new System.Drawing.Font("Arial Rounded MT Bold", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button24.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.button24.Location = new System.Drawing.Point(340, 155);
@@ -202,7 +234,10 @@ namespace kolobki_holodilnik
             // 
             // button31
             // 
-            this.button31.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.button31.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.button31.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.button31.Font = new System.Drawing.Font("Arial Rounded MT Bold", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button31.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.button31.Location = new System.Drawing.Point(40, 226);
@@ -216,7 +251,10 @@ namespace kolobki_holodilnik
             // 
             // button32
             // 
-            this.button32.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.button32.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.button32.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.button32.Font = new System.Drawing.Font("Arial Rounded MT Bold", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button32.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.button32.Location = new System.Drawing.Point(140, 226);
@@ -230,7 +268,10 @@ namespace kolobki_holodilnik
             // 
             // button33
             // 
-            this.button33.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.button33.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.button33.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.button33.Font = new System.Drawing.Font("Arial Rounded MT Bold", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button33.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.button33.Location = new System.Drawing.Point(240, 226);
@@ -244,7 +285,10 @@ namespace kolobki_holodilnik
             // 
             // button34
             // 
-            this.button34.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.button34.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.button34.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.button34.Font = new System.Drawing.Font("Arial Rounded MT Bold", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button34.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.button34.Location = new System.Drawing.Point(340, 226);
@@ -258,7 +302,10 @@ namespace kolobki_holodilnik
             // 
             // button41
             // 
-            this.button41.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.button41.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.button41.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.button41.Font = new System.Drawing.Font("Arial Rounded MT Bold", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button41.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.button41.Location = new System.Drawing.Point(40, 300);
@@ -272,7 +319,10 @@ namespace kolobki_holodilnik
             // 
             // button42
             // 
-            this.button42.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.button42.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.button42.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.button42.Font = new System.Drawing.Font("Arial Rounded MT Bold", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button42.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.button42.Location = new System.Drawing.Point(140, 300);
@@ -286,7 +336,10 @@ namespace kolobki_holodilnik
             // 
             // button43
             // 
-            this.button43.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.button43.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.button43.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.button43.Font = new System.Drawing.Font("Arial Rounded MT Bold", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button43.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.button43.Location = new System.Drawing.Point(240, 300);
@@ -300,7 +353,10 @@ namespace kolobki_holodilnik
             // 
             // button44
             // 
-            this.button44.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.button44.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.button44.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.button44.Font = new System.Drawing.Font("Arial Rounded MT Bold", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button44.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.button44.Location = new System.Drawing.Point(340, 300);
@@ -314,12 +370,12 @@ namespace kolobki_holodilnik
             // 
             // button1
             // 
-            this.button1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.button1.AutoSize = true;
+            this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.button1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button1.Location = new System.Drawing.Point(433, 109);
+            this.button1.Location = new System.Drawing.Point(442, 100);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(61, 65);
+            this.button1.Size = new System.Drawing.Size(61, 26);
             this.button1.TabIndex = 8;
             this.button1.Text = "Restart";
             this.button1.UseVisualStyleBackColor = true;
@@ -327,12 +383,12 @@ namespace kolobki_holodilnik
             // 
             // button2
             // 
-            this.button2.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.button2.AutoSize = true;
+            this.button2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.button2.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button2.Location = new System.Drawing.Point(433, 216);
+            this.button2.Location = new System.Drawing.Point(442, 239);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(70, 65);
+            this.button2.Size = new System.Drawing.Size(70, 26);
             this.button2.TabIndex = 8;
             this.button2.Text = "Random";
             this.button2.UseVisualStyleBackColor = true;
@@ -370,7 +426,6 @@ namespace kolobki_holodilnik
             this.Text = "Fridge";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
