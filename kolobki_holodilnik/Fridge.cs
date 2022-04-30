@@ -14,6 +14,7 @@ namespace kolobki_holodilnik
     {
         public Fridge()
         {
+            this.StartPosition = FormStartPosition.CenterScreen;
             InitializeComponent();
             this.Size = new Size(540, 400);
         }
@@ -59,7 +60,9 @@ namespace kolobki_holodilnik
                 progressBar2.Value == 100 &&
                 progressBar3.Value == 100 &&
                 progressBar4.Value == 100)
+            {
                 MessageBox.Show("You Win Gratz!!");
+            }
         }
 
         private void Change_Progress_Line1()
